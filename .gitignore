@@ -76,3 +76,25 @@ DerivedDataCache/*
 /TheFlyingPew/DerivedDataCache
 /TheFlyingPew/Intermediate
 /TheFlyingPew/Saved
+TheFlightPlane/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+TheFlightPlane/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+TheFlightPlane/Saved/Logs/cef3-backup-2026.07.09-02.57.25.log
+TheFlightPlane/Saved/Logs/cef3-backup-2026.07.09-05.19.46.log
+TheFlightPlane/Saved/Logs/cef3-backup-2026.07.10-01.14.30.log
+TheFlightPlane/Saved/Logs/cef3-backup-2026.07.10-12.31.11.log
+TheFlightPlane/Saved/Logs/cef3-backup-2026.07.10-15.34.16.log
+TheFlightPlane/Saved/Logs/cef3-backup-2026.07.10-16.13.50.log
+TheFlightPlane/Saved/Logs/cef3-backup-2026.07.11-03.25.07.log
+TheFlightPlane/Saved/Logs/cef3.log
+TheFlightPlane/Saved/Logs/TheFlightPlane-backup-2026.07.09-02.57.27.log
+TheFlightPlane/Saved/Logs/TheFlightPlane-backup-2026.07.09-05.19.49.log
+TheFlightPlane/Saved/Logs/TheFlightPlane-backup-2026.07.10-01.14.33.log
+TheFlightPlane/Saved/Logs/TheFlightPlane-backup-2026.07.10-12.31.14.log
+TheFlightPlane/Saved/Logs/TheFlightPlane-backup-2026.07.10-15.34.20.log
+TheFlightPlane/Saved/Logs/TheFlightPlane-backup-2026.07.10-16.13.53.log
+TheFlightPlane/Saved/Logs/TheFlightPlane-backup-2026.07.11-03.21.59.log
+TheFlightPlane/Saved/Logs/TheFlightPlane.log
+TheFlightPlane/Saved/ShaderDebugInfo/PCD3D_SM6/FMatExpressionPreview MaterialExpressionFunctionOutput_0_c51ba1cf8c3c820f/Default/FLocalVertexFactory/TBasePassPSFNoLightMapPolicy/0/BasePassPixelShader.usf
+TheFlightPlane/Saved/ShaderDebugInfo/PCD3D_SM6/FMatExpressionPreview MaterialExpressionFunctionOutput_0_c51ba1cf8c3c820f/Default/FLocalVertexFactory/TBasePassPSFNoLightMapPolicy/0/CompileDXC.bat
+TheFlightPlane/Saved/ShaderDebugInfo/PCD3D_SM6/FMatExpressionPreview MaterialExpressionFunctionOutput_0_c51ba1cf8c3c820f/Default/FLocalVertexFactory/TBasePassPSFNoLightMapPolicy/0/DebugCompileArgs.txt
+TheFlightPlane/Saved/ShaderDebugInfo/PCD3D_SM6/FMatExpressionPreview MaterialExpressionFunctionOutput_0_c51ba1cf8c3c820f/Default/FLocalVertexFactory/TBasePassPSFNoLightMapPolicy/0/DebugHash_31fde9cb3caa056b1d1c85650711aaa4198256193dd37ea743b5e7d1a0673140
